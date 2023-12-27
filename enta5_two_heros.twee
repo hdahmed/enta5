@@ -1,0 +1,81 @@
+:: StoryTitle
+ENTA5
+
+
+:: StoryData
+{
+  "ifid": "399A01FC-4285-4D77-86F1-9A070C34DC59",
+  "format": "Harlowe",
+  "format-version": "3.3.7",
+  "start": "البداية",
+  "zoom": 1
+}
+
+
+:: اسأل أصدقائك {"position":"775,75","size":"100,100"}
+[[سوسو]]
+[[لولو]]
+[[توتو]]
+
+
+:: اسأل الوالدة {"position":"775,200","size":"100,100"}
+يا ماما، انا كبرت وآن الأوان أكون عائلة
+أه والنبى يا ابنى، أنا نفسى اشيل عيالك قبل ما اموت.  جميلة بنت خالك حلوة وطيبة وعارفين أمها زى السكر.
+بس يا ماما جميلة زى اختى، انا لا يمكن أتزوجها ولا أفكر فيها كزوجة
+
+[[ارجع|عادل]]
+
+
+:: البداية {"position":"400,175","size":"100,100"}
+اختر بطلك
+[[عادل]] <img src="https://mediaaws.almasryalyoum.com/news/large/2023/10/25/2231677_0.jpg" width=150 height=150>
+[[سناء]] <img src="https://www.awqatk.com/wp-content/uploads/2017/09/%D8%B3%D9%86%D8%A7%D8%A1-%D9%8A%D9%88%D9%86%D8%B3-4.jpg" width=150 height=150>
+
+
+:: توتو {"position":"950,300","size":"100,100"}
+مثقفة وذكية وجميلة 
+<img src="https://media0033.elcinema.com/uploads/_640x_d7042c3ff901fc1693296e157a2d0eaecc8ad52d29b998c6b973bbdb7c91c7a3.jpg" width=150 height=150>
+
+لكنها رفضت الزواج منه لأنه سطحى
+[[ارجع|عادل]]
+
+
+:: سناء {"position":"525,75","size":"100,100"}
+<img src="https://www.hilton.com/im/en/HVNSHGI/2255892/gi-ecomm-family-winter.jpg">
+
+
+:: سوسو {"position":"950,175","size":"100,100"}
+من عائلة فقيرة
+<img src="http://media.linkonlineworld.com/img/original/2016/12/14/2016_12_14_13_12_54_574.jpg" width=150 height=150>
+[[ارجع|عادل]]
+
+
+<a href="http://www.google.com">link text</a>
+
+
+:: عادل {"position":"575,200","size":"100,100"}
+
+أهلا وسهلا
+أنا اسمى عادل وأنا محاسب مصرى أعمل فى قطر 
+أريد أن أتزوج
+[[اسأل أصدقائك]]
+[[كلم الخاطبة]]
+[[اسأل الوالدة]]
+
+
+:: كلم الخاطبة {"position":"775,325","size":"100,100"}
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/D4GvimAXJsk?si=SaJNZmWLjrxP90-g&amp;start=600" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[[سوسو]]
+[[لولو]]
+[[توتو]]
+
+
+:: لولو {"position":"950,50","size":"100,100"}
+سمينة
+<img src="https://img.youm7.com/large/202003211213411341.jpg" width=150 height=150>
+[[ارجع|عادل]]
+
+
+:: StoryScript [script]
+$(document.documentElement).attr('dir', 'rtl');
